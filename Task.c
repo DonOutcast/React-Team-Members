@@ -25,4 +25,5 @@ int main() {
         printf("%c", array[j]);
     }
     return 0;
+    printf("Hello Shamil");
 }
