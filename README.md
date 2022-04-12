@@ -1,2 +1,2 @@
 ## Project on C.
-*Ghost to uppercase the first letter at the beginning of a word.*
+*Write a program that will convert the initial letter of a word to uppercase.*
