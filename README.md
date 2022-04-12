@@ -1,2 +1,2 @@
 # new-project
-## My name is a Shamil
+*Ghost to uppercase the first letter at the beginning of a word.*
