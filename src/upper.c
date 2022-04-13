@@ -24,4 +24,5 @@ int main() {
     for (int j = 0; j <= i; j++) {
         printf("%c", array[j]);
     }
-    return 0;
+    return 0; 
+}
